@@ -60,11 +60,12 @@ Follow these steps to install and run the extension in Google Chrome:
 
 ---
 
-📖 Usage
+## 📖 Usage
 
-🖱️ Click the extension icon in your Chrome toolbar.
-🤖 Enter or highlight text → generate MCQs instantly.
-📑 Practice directly from the popup interface.
+1. 🖱️ Click the extension icon in your Chrome toolbar.  
+2. 🤖 Enter or highlight text → generate MCQs instantly.  
+3. 📑 Practice directly from the popup interface.  
+
 
 ---
 
