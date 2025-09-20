@@ -60,6 +60,11 @@ Follow these steps to install and run the extension in Google Chrome:
 
 ---
 
+## 📸 Screenshot
+
+
+---
+
 ## 📖 Usage
 
 1. 🖱️ Click the extension icon in your Chrome toolbar.  
