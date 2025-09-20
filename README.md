@@ -15,13 +15,15 @@ Designed for students, teachers, and learners who want quick practice questions 
 ---
 
 ## 📂 Project Structure
+
 mcq-ai-extension/
-│── background.js # Handles background tasks and extension events
-│── content.js # Injected into web pages to interact with content
-│── manifest.json # Chrome extension configuration
-│── popup.html # Popup UI for the extension
-│── popup.js # Logic for popup interactions
-│── styles.css # Styling for the popup
+- background.js  # Handles background tasks and extension events
+- content.js     # Injected into web pages to interact with content
+- manifest.json  # Chrome extension configuration
+- popup.html     # Popup UI for the extension
+- popup.js       # Logic for popup interactions
+- styles.css     # Styling for the popup
+
 
 ---
 
