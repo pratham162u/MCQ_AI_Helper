@@ -65,22 +65,22 @@ Here are the step-by-step visuals of how the extension works 👇
 
 ---
 
-### 📝 Select the MCQ Question with Options  
+### 1. 📝 Select the MCQ Question with Options  
 ![MCQ Selection](assets/1.png)
 
 ---
 
-### 👉 Right Click on this and click **"Find Answer With AI"**  
+### 2. 👉 Right Click on this and click **"Find Answer With AI"**  
 ![Right Click Menu](assets/2.png)
 
 ---
 
-### ⏳ Showing the Answer for only 5 Seconds  
+### 3. ⏳ Showing the Answer for only 5 Seconds  
 ![Answer Popup](assets/3.png)
 
 ---
 
-### ✅ That is the Correct Answer  
+### 4. ✅ That is the Correct Answer  
 ![Correct Answer](assets/4.png)
 
 
